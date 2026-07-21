@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
+| [1672-richest-customer-wealth](https://github.com/Aham0803/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Aham0803/LeetCode/tree/master/0383-ransom-note) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Aham0803/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
