@@ -38,6 +38,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Aham0803/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aham0803/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/Aham0803/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Aham0803/LeetCode/tree/master/1732-find-the-highest-altitude) |
