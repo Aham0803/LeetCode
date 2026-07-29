@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Aham0803/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Aham0803/LeetCode/tree/master/0443-string-compression) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aham0803/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
@@ -59,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aham0803/LeetCode/tree/master/0242-valid-anagram) |
