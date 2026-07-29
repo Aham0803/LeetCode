@@ -44,6 +44,7 @@
 | [0001-two-sum](https://github.com/Aham0803/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Aham0803/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Aham0803/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -95,6 +96,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aham0803/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aham0803/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Aham0803/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
