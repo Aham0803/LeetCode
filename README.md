@@ -73,6 +73,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Aham0803/LeetCode/tree/master/0007-reverse-integer) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
+| [1492-the-kth-factor-of-n](https://github.com/Aham0803/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2396-strictly-palindromic-number](https://github.com/Aham0803/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aham0803/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Aham0803/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aham0803/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
