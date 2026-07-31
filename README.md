@@ -150,6 +150,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Aham0803/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Aham0803/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Aham0803/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Aham0803/LeetCode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Aham0803/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Aham0803/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Aham0803/LeetCode/tree/master/1280-students-and-examinations) |
