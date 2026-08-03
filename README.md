@@ -58,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Aham0803/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aham0803/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/Aham0803/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Aham0803/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aham0803/LeetCode/tree/master/0007-reverse-integer) |
+| [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Aham0803/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2396-strictly-palindromic-number](https://github.com/Aham0803/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -81,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -90,6 +93,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
@@ -190,4 +194,12 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
