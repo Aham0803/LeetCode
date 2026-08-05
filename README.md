@@ -51,6 +51,7 @@
 | [0001-two-sum](https://github.com/Aham0803/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aham0803/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
@@ -124,6 +125,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aham0803/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
