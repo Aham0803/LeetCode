@@ -53,6 +53,7 @@
 | [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aham0803/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -84,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aham0803/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aham0803/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Number Theory
 |  |
