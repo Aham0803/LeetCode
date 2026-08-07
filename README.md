@@ -55,6 +55,7 @@
 | [0045-jump-game-ii](https://github.com/Aham0803/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Aham0803/LeetCode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aham0803/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Aham0803/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aham0803/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Aham0803/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
