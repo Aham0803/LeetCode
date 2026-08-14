@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aham0803/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Aham0803/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aham0803/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -46,6 +47,7 @@
 | [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aham0803/LeetCode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/Aham0803/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Aham0803/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Aham0803/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aham0803/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -238,10 +240,15 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Aham0803/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Aham0803/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aham0803/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aham0803/LeetCode/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aham0803/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
