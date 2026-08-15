@@ -47,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/Aham0803/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aham0803/LeetCode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aham0803/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Aham0803/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aham0803/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aham0803/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -246,6 +247,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aham0803/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aham0803/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aham0803/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aham0803/LeetCode/tree/master/0206-reverse-linked-list) |
