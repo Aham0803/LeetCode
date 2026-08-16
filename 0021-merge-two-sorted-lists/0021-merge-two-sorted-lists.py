@@ -6,26 +6,42 @@
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         #brutte force
-        arr =[]
-        temp = list1
-        while(temp):
-            arr.append(temp.val)
-            temp = temp.next
+        # arr =[]
+        # temp = list1
+        # while(temp):
+        #     arr.append(temp.val)
+        #     temp = temp.next
+        # temp = list2
+        # while(temp):
+        #     arr.append(temp.val)
+        #     temp = temp.next
+        # arr.sort()
+        # dummy = ListNode()
+        # temp = dummy
+        # for num in arr:
+        #     temp.next = ListNode(num)
+        #     temp = temp.next
         
-        temp = list2
-        while(temp):
-            arr.append(temp.val)
-            temp = temp.next
-        
-        arr.sort()
+        # return dummy.next
 
         dummy = ListNode()
         temp = dummy
-
-        for num in arr:
-            temp.next = ListNode(num)
+        while(list1 and list2):
+            if list1.val <= list2.val:
+                temp.next = list1
+                list1 = list1.next
+            else:
+                temp.next = list2
+                list2 = list2.next
+            
             temp = temp.next
-        
+
+        if list1:
+            temp.next = list1
+        else:
+            temp.next = list2
+            
         return dummy.next
+
 
 
