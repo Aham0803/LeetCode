@@ -202,6 +202,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aham0803/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/Aham0803/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Aham0803/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/Aham0803/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Aham0803/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aham0803/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Aham0803/LeetCode/tree/master/1789-primary-department-for-each-employee) |
