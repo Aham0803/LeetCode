@@ -33,6 +33,7 @@
 | [0383-ransom-note](https://github.com/Aham0803/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aham0803/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Aham0803/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aham0803/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Aham0803/LeetCode/tree/master/0443-string-compression) |
@@ -63,6 +64,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aham0803/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Aham0803/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Aham0803/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aham0803/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
@@ -125,6 +127,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Aham0803/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Aham0803/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
