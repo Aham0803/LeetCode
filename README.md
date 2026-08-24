@@ -19,6 +19,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Aham0803/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aham0803/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aham0803/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Aham0803/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Aham0803/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aham0803/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -116,6 +118,7 @@
 | [0389-find-the-difference](https://github.com/Aham0803/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aham0803/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aham0803/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
