@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Aham0803/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aham0803/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Aham0803/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aham0803/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aham0803/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Aham0803/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aham0803/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aham0803/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -121,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aham0803/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aham0803/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aham0803/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -176,6 +179,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aham0803/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Aham0803/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -253,6 +257,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aham0803/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Aham0803/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -343,4 +348,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Aham0803/LeetCode/tree/master/0389-find-the-difference) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aham0803/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
