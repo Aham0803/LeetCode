@@ -93,6 +93,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Aham0803/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Aham0803/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aham0803/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aham0803/LeetCode/tree/master/0057-insert-interval) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Aham0803/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Aham0803/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aham0803/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Aham0803/LeetCode/tree/master/0392-is-subsequence) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aham0803/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Aham0803/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aham0803/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
