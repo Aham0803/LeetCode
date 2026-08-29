@@ -142,6 +142,7 @@
 | [1929-concatenation-of-array](https://github.com/Aham0803/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aham0803/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Aham0803/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Math
 |  |
 | ------- |
