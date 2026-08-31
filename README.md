@@ -25,6 +25,7 @@
 | [0525-contiguous-array](https://github.com/Aham0803/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [0443-string-compression](https://github.com/Aham0803/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aham0803/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aham0803/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1078-occurrences-after-bigram](https://github.com/Aham0803/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1446-consecutive-characters](https://github.com/Aham0803/LeetCode/tree/master/1446-consecutive-characters) |
