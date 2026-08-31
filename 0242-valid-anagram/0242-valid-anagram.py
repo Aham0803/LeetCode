@@ -9,3 +9,12 @@ class Solution:
             if(s[i] != t[i]):
                 return False
         return True
+
+        # wrong sol
+        # if len(s) != len(t):
+        #     return False
+        # for c in s:
+        #     if c not in t:
+        #         return False
+        #         break
+        # return True
