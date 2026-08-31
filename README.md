@@ -51,6 +51,7 @@
 | [1446-consecutive-characters](https://github.com/Aham0803/LeetCode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Aham0803/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aham0803/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
