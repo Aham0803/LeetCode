@@ -48,6 +48,7 @@
 | [0443-string-compression](https://github.com/Aham0803/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aham0803/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aham0803/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1078-occurrences-after-bigram](https://github.com/Aham0803/LeetCode/tree/master/1078-occurrences-after-bigram) |
@@ -194,6 +195,7 @@
 | [0152-maximum-product-subarray](https://github.com/Aham0803/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Aham0803/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Aham0803/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
@@ -215,6 +217,7 @@
 | [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Aham0803/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Aham0803/LeetCode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aham0803/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Number Theory
 |  |
@@ -338,6 +341,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Aham0803/LeetCode/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -422,4 +426,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aham0803/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
