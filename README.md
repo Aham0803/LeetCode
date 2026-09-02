@@ -145,6 +145,7 @@
 | [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Aham0803/LeetCode/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aham0803/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Aham0803/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aham0803/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +179,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aham0803/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aham0803/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Math
@@ -450,4 +452,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aham0803/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
