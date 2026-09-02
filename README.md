@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aham0803/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Aham0803/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aham0803/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
@@ -125,6 +126,7 @@
 | [0268-missing-number](https://github.com/Aham0803/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/Aham0803/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Aham0803/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Aham0803/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aham0803/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -197,6 +199,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aham0803/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aham0803/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Aham0803/LeetCode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Aham0803/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Aham0803/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
