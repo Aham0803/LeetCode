@@ -156,6 +156,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Aham0803/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Aham0803/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aham0803/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
@@ -249,6 +250,7 @@
 | [0867-transpose-matrix](https://github.com/Aham0803/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aham0803/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aham0803/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [0867-transpose-matrix](https://github.com/Aham0803/LeetCode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Aham0803/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Minimax
 |  |
 | ------- |
