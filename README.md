@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aham0803/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Aham0803/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aham0803/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Aham0803/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Aham0803/LeetCode/tree/master/0049-group-anagrams) |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aham0803/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Aham0803/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aham0803/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aham0803/LeetCode/tree/master/0016-3sum-closest) |
@@ -193,6 +195,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aham0803/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Aham0803/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aham0803/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aham0803/LeetCode/tree/master/0055-jump-game) |
@@ -439,4 +442,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aham0803/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
