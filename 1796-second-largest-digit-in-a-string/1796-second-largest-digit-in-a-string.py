@@ -16,7 +16,8 @@ class Solution:
             if v > maxV:
                 maxV = v
         for v in val:
-            if v < maxV and v > smax:
+            if smax < v < maxV:
+            # if v < maxV and v > smax:
                 smax= v
         return smax
 
