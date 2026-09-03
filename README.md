@@ -28,6 +28,7 @@
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1078-occurrences-after-bigram](https://github.com/Aham0803/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1446-consecutive-characters](https://github.com/Aham0803/LeetCode/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Aham0803/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aham0803/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
