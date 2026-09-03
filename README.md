@@ -60,6 +60,7 @@
 | [1768-merge-strings-alternately](https://github.com/Aham0803/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aham0803/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
@@ -98,6 +99,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Aham0803/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Aham0803/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Aham0803/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/Aham0803/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Array
 |  |
@@ -364,6 +366,7 @@
 | [0143-reorder-list](https://github.com/Aham0803/LeetCode/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
