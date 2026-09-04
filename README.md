@@ -63,6 +63,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aham0803/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Aham0803/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [1768-merge-strings-alternately](https://github.com/Aham0803/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/Aham0803/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Aham0803/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Aham0803/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Math
 |  |
 | ------- |
