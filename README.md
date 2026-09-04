@@ -173,6 +173,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aham0803/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4020-elevator-requests-i](https://github.com/Aham0803/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
 | ------- |
@@ -386,6 +387,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Aham0803/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [4020-elevator-requests-i](https://github.com/Aham0803/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Minimax
 |  |
 | ------- |
