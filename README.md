@@ -173,6 +173,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aham0803/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Aham0803/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/Aham0803/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Sorting
 |  |
@@ -213,6 +214,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Aham0803/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aham0803/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aham0803/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Aham0803/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Aham0803/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aham0803/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aham0803/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Aham0803/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Counting
 |  |
 | ------- |
@@ -462,6 +465,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Aham0803/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Ternary Search
 |  |
 | ------- |
