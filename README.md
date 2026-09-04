@@ -63,6 +63,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aham0803/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3931-check-adjacent-digit-differences](https://github.com/Aham0803/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Aham0803/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sliding Window
 |  |
