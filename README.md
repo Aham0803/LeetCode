@@ -177,6 +177,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aham0803/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Aham0803/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aham0803/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Aham0803/LeetCode/tree/master/3978-unique-middle-element) |
