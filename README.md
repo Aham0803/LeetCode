@@ -106,6 +106,7 @@
 | [1768-merge-strings-alternately](https://github.com/Aham0803/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/Aham0803/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Aham0803/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Array
 |  |
@@ -175,6 +176,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aham0803/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Aham0803/LeetCode/tree/master/3978-unique-middle-element) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aham0803/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4020-elevator-requests-i](https://github.com/Aham0803/LeetCode/tree/master/4020-elevator-requests-i) |
