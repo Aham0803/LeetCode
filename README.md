@@ -64,6 +64,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aham0803/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3798-largest-even-number](https://github.com/Aham0803/LeetCode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Aham0803/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/Aham0803/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/Aham0803/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
