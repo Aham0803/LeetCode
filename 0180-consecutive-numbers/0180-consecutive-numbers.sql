@@ -9,12 +9,23 @@
 -- where l1.num= l2.num
 -- And l2.num = l3.num
 
+-- select distinct num as ConsecutiveNums
+-- from(
+--     select
+--     num ,
+--     lag(num,1) over(order by id) as prev1,
+--     lag(num,2) over(order by id) as prev2
+--     from Logs
+-- )t
+-- where num = prev1
+-- and num = prev2
+
 select distinct num as ConsecutiveNums
 from(
     select
     num ,
-    lag(num,1) over(order by id) as prev1,
-    lag(num,2) over(order by id) as prev2
+    lead(num,1) over(order by id) as prev1,
+    lead(num,2) over(order by id) as prev2
     from Logs
 )t
 where num = prev1
