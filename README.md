@@ -64,6 +64,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aham0803/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3813-vowel-consonant-score](https://github.com/Aham0803/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/Aham0803/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/Aham0803/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Aham0803/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -408,6 +409,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Aham0803/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3813-vowel-consonant-score](https://github.com/Aham0803/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/Aham0803/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Aham0803/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aham0803/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
