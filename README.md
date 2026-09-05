@@ -178,6 +178,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3833-count-dominant-indices](https://github.com/Aham0803/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/Aham0803/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Aham0803/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aham0803/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -485,6 +486,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [3833-count-dominant-indices](https://github.com/Aham0803/LeetCode/tree/master/3833-count-dominant-indices) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aham0803/LeetCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Ternary Search
 |  |
