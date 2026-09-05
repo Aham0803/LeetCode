@@ -181,6 +181,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aham0803/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Aham0803/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3833-count-dominant-indices](https://github.com/Aham0803/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/Aham0803/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -217,6 +218,7 @@
 | [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aham0803/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Aham0803/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Aham0803/LeetCode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Math
