@@ -57,6 +57,7 @@
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/Aham0803/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aham0803/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1078-occurrences-after-bigram](https://github.com/Aham0803/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1446-consecutive-characters](https://github.com/Aham0803/LeetCode/tree/master/1446-consecutive-characters) |
@@ -253,6 +254,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Aham0803/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Aham0803/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Aham0803/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
