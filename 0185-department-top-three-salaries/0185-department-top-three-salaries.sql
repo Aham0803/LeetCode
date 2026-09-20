@@ -1,7 +1,5 @@
 # Write your MySQL query statement below
-select Department,
-Employee,
-Salary
+select Department,Employee,Salary
 from(
 select
 d.name as Department,
