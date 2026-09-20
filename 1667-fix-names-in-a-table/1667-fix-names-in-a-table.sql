@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+-- # Write your MySQL query statement below
 select
 user_id,
 concat(
@@ -7,3 +7,31 @@ concat(
 ) as name
 from Users
 order by user_id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
