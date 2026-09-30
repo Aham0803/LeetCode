@@ -364,6 +364,7 @@
 | [1179-reformat-department-table](https://github.com/Aham0803/LeetCode/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/Aham0803/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Aham0803/LeetCode/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/Aham0803/LeetCode/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aham0803/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Aham0803/LeetCode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Aham0803/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
