@@ -16,6 +16,7 @@ class Solution:
         for ch in nums:
             freq[ch] = freq.get(ch,0)+1
         
-        val = list(freq.items())
-        val.sort(key = lambda x:x[1] , reverse = True)
-        return val[0][0]
+        # val = list(freq.items())
+        # val.sort(key = lambda x:x[1] , reverse = True)
+        # return val[0][0]
+        return max(freq, key = freq.get)
