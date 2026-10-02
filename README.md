@@ -144,6 +144,7 @@
 | [0118-pascals-triangle](https://github.com/Aham0803/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aham0803/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aham0803/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Aham0803/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Aham0803/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aham0803/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aham0803/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -499,6 +500,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aham0803/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aham0803/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Aham0803/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
