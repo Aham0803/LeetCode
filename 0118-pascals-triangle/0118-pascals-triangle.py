@@ -11,3 +11,4 @@ class Solution:
                     cur.append(arr[i-1][j-1] + arr[i-1][j])
             arr.append(cur)
         return arr
+        
