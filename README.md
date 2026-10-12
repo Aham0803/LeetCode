@@ -158,6 +158,7 @@
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aham0803/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aham0803/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Aham0803/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Aham0803/LeetCode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aham0803/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -223,6 +224,7 @@
 | [0217-contains-duplicate](https://github.com/Aham0803/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aham0803/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aham0803/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Aham0803/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Aham0803/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Aham0803/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aham0803/LeetCode/tree/master/0414-third-maximum-number) |
@@ -543,6 +545,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Aham0803/LeetCode/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
