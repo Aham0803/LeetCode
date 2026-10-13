@@ -28,6 +28,7 @@
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aham0803/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Aham0803/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Aham0803/LeetCode/tree/master/3842-toggle-light-bulbs) |
@@ -120,6 +121,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Aham0803/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Aham0803/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aham0803/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Aham0803/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/Aham0803/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -195,6 +197,7 @@
 | [1550-three-consecutive-odds](https://github.com/Aham0803/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Aham0803/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aham0803/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aham0803/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Aham0803/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Aham0803/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aham0803/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -240,6 +243,7 @@
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/Aham0803/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Aham0803/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aham0803/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Aham0803/LeetCode/tree/master/3842-toggle-light-bulbs) |
