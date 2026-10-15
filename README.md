@@ -65,6 +65,7 @@
 | [0844-backspace-string-compare](https://github.com/Aham0803/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Aham0803/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aham0803/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aham0803/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aham0803/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/Aham0803/LeetCode/tree/master/1078-occurrences-after-bigram) |
 | [1446-consecutive-characters](https://github.com/Aham0803/LeetCode/tree/master/1446-consecutive-characters) |
@@ -446,6 +447,7 @@
 | [0143-reorder-list](https://github.com/Aham0803/LeetCode/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Aham0803/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aham0803/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aham0803/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Aham0803/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Aham0803/LeetCode/tree/master/2390-removing-stars-from-a-string) |
