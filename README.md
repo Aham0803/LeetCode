@@ -35,6 +35,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aham0803/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aham0803/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Aham0803/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Aham0803/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## String
@@ -218,6 +219,7 @@
 | [1929-concatenation-of-array](https://github.com/Aham0803/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aham0803/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Aham0803/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aham0803/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Aham0803/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Aham0803/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Aham0803/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
