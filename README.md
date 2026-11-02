@@ -32,6 +32,7 @@
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0811-subdomain-visit-count](https://github.com/Aham0803/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aham0803/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -74,6 +75,7 @@
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Aham0803/LeetCode/tree/master/0796-rotate-string) |
 | [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/Aham0803/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Aham0803/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Aham0803/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -204,6 +206,7 @@
 | [0724-find-pivot-index](https://github.com/Aham0803/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Aham0803/LeetCode/tree/master/0729-my-calendar-i) |
 | [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/Aham0803/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aham0803/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -355,6 +358,7 @@
 | [0383-ransom-note](https://github.com/Aham0803/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aham0803/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Aham0803/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0811-subdomain-visit-count](https://github.com/Aham0803/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [3978-unique-middle-element](https://github.com/Aham0803/LeetCode/tree/master/3978-unique-middle-element) |
 ## Matrix
