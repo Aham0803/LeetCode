@@ -32,6 +32,7 @@
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Aham0803/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Aham0803/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [1331-rank-transform-of-an-array](https://github.com/Aham0803/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -74,6 +75,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Aham0803/LeetCode/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Aham0803/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Aham0803/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
@@ -205,6 +207,7 @@
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aham0803/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Aham0803/LeetCode/tree/master/0729-my-calendar-i) |
+| [0804-unique-morse-code-words](https://github.com/Aham0803/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Aham0803/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
