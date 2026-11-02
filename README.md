@@ -202,6 +202,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Aham0803/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aham0803/LeetCode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Aham0803/LeetCode/tree/master/0729-my-calendar-i) |
 | [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -382,6 +383,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aham0803/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aham0803/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aham0803/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/Aham0803/LeetCode/tree/master/0729-my-calendar-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aham0803/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Aham0803/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aham0803/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -630,4 +632,16 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aham0803/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Aham0803/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Aham0803/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Aham0803/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
