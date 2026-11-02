@@ -73,6 +73,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aham0803/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Aham0803/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Aham0803/LeetCode/tree/master/0796-rotate-string) |
+| [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Aham0803/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Aham0803/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -133,6 +134,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Aham0803/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aham0803/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Aham0803/LeetCode/tree/master/0567-permutation-in-string) |
+| [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
 | [0844-backspace-string-compare](https://github.com/Aham0803/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Aham0803/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -200,6 +202,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Aham0803/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aham0803/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aham0803/LeetCode/tree/master/0724-find-pivot-index) |
+| [0809-expressive-words](https://github.com/Aham0803/LeetCode/tree/master/0809-expressive-words) |
 | [0819-most-common-word](https://github.com/Aham0803/LeetCode/tree/master/0819-most-common-word) |
 | [0845-longest-mountain-in-array](https://github.com/Aham0803/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aham0803/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
